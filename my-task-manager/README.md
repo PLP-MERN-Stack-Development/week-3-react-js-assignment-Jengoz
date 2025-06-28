@@ -18,7 +18,7 @@ A modern task management application built with **React**, **Vite**, **Tailwind 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view deployed app](https://your-vercel-or-netlify-url.com)
+🔗 [Click here to view deployed app](https://musical-cobbler-1ee9d4.netlify.app/)
 
 ---
 
